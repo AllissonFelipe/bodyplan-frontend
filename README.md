@@ -1,4 +1,4 @@
-﻿# java-management-event-frontend
+﻿# java-event-management-frontend
 
 Frontend - Event Management.
 
