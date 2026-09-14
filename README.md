@@ -1,4 +1,4 @@
-﻿# java-event-management-frontend
+﻿# bodyplan-frontend
 
-Frontend - Event Management.
+Frontend web - BodyPlan (dietas, treinos e acompanhamento corporal).
 
